@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Certamen3</string>
+
+    <string name="like">Agregar a favoritos</string>
+    <string name="added">Agregado</string>
+    <string name="action_settings">Mis Favoritos</string>
+</resources>
